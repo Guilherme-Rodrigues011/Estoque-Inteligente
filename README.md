@@ -33,8 +33,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ```bash
 # Clone este repositório
-git clone [https://github.com/Guilherme-Rodrigues011/Estoque-Inteligente.git](https://github.com/Guilherme-Rodrigues011/Estoque-Inteligente.git)
-
+git clone https://github.com/Guilherme-Rodrigues011/Estoque-Inteligente.git
 # Acesse a pasta do projeto
 cd Estoque-Inteligente
 
