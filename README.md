@@ -50,17 +50,3 @@ python manage.py migrate
 # Inicie o servidor de desenvolvimento
 python manage.py runserver
 
-
-A aplicação estará disponível em: http://127.0.0.1:8000/
-
-Colaboradores
-
-[Guilherme Rodrigues](https://github.com/Guilherme-Rodrigues011)
-
-João Fernandes
-
-Marcel Dantas
-
-[Railton Rocha](https://github.com/rocha-Railton)
-
-[Samuel Mineiro](https://github.com/SamuelMineiro)
